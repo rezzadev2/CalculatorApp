@@ -8,4 +8,4 @@ NOTE :
 Screenshoot 
 
 RED Theme Select File
-![Image 1](https://user-images.githubusercontent.com/121522930/214191133-c3d216c6-d015-4f66-8e1c-abb5a3d42b42.png)
+<image src="https://user-images.githubusercontent.com/121522930/214191133-c3d216c6-d015-4f66-8e1c-abb5a3d42b42.png" width="200" height="400" />
